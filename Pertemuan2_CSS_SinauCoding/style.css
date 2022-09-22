@@ -6,6 +6,7 @@ p{
     font-size: 18px;
 }
 
+
 .first-content{
     background: url(./img/html.png);
     background-repeat: repeat-y;
@@ -13,13 +14,13 @@ p{
 }
 
 .second-content{
-    background: url(./img/css-3.png);
+    background: url(./img/css_3.png);
     background-repeat: repeat-y;
     background-position: right;
 }
 
 .container .first-content{
-    background-color: rgb(247, 98, 82);
+    background-color: rgb(255, 162, 151);
 }
 
 .container .second-content{
@@ -48,24 +49,13 @@ p{
 
 }
 
+.container a{
+    color: black;
+}
+
 
 
 /* Pseudo Code */
-.a{
-    font-size: 20pt;
-}
-.a:hover{
-color: black;
-}
-.a:link{
-color: black;
-}
-.a:active{
-color: black;
-}
-.a:visited{
-background: black;
-}
 
 th:hover{
     font-size: 24px;
